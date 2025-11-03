@@ -5,6 +5,7 @@ This repository showcases examples of my data cleaning and exploratory analysis 
 
 📁 Repository Contents
 
+
 🏅 Sports Data Cleaning
 
 Files:
@@ -15,6 +16,7 @@ Data_Cleaning_Sportdata.sql — SQL script used to clean and prepare the sports 
 
 Description:
 This project focuses on identifying and correcting data quality issues in a sports dataset, including handling missing values, removing duplicates, standardizing formats, and preparing the data for downstream analysis.
+
 
 💼 Layoffs Data Exploration
 
@@ -29,6 +31,16 @@ EDA_Layoffs.sql — Exploratory Data Analysis using SQL queries.
 Description:
 This project explores layoff trends across industries and time periods. After cleaning the dataset, I used SQL queries to analyze factors such as company size, region, and timing to identify key insights and patterns.
 
+
+📉 Data Analysis Survey Data
+
+Files:
+
+DataAnalysis_SurveyData.xlsx - Raw, unclean dataset from Data Analysis Survey.
+
+DataAnalysis_SurveyData_PowerBI.pbix - Power BI Dashboard using dataset from Data Analysis Survey.
+
+
 🧠 Tools & Skills Demonstrated
 
 SQL (MySQL / PostgreSQL): Data cleaning, transformation, and analysis
@@ -38,6 +50,7 @@ Data Wrangling: Handling missing values, duplicates, and inconsistent data
 Exploratory Data Analysis (EDA): Using SQL to uncover trends and patterns
 
 Data Documentation: Clear organization of raw, cleaned, and analytical scripts
+
 
 🚀 Next Steps
 
