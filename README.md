@@ -40,6 +40,8 @@ DataAnalysis_SurveyData.xlsx - Raw, unclean dataset from Data Analysis Survey.
 
 DataAnalysis_SurveyData_PowerBI.pbix - Power BI Dashboard using dataset from Data Analysis Survey.
 
+Description:
+This project explores data from a Data Analysis Survey collected in Excel, cleaned, and used to create a dashboard in Power BI.
 
 🧠 Tools & Skills Demonstrated
 
