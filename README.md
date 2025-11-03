@@ -4,6 +4,7 @@ Welcome to my GitHub data analytics portfolio!
 This repository showcases examples of my data cleaning and exploratory analysis work using SQL and Excel-based datasets. Each project demonstrates different aspects of the data analysis process, from raw data to structured insights.
 
 📁 Repository Contents
+
 🏅 Sports Data Cleaning
 
 Files:
