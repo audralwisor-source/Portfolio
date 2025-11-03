@@ -51,5 +51,5 @@ Additional datasets showcasing end-to-end analytics workflows
 📬 Contact
 
 Created by: Audra Wisor
-📧 [Your email or LinkedIn link here]
-💼 [LinkedIn or portfolio website if you have one]
+📧 [audralwisor@gmail.com]
+💼 [www.linkedin.com/in/audra-wisor-431972208]
