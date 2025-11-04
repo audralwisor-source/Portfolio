@@ -6,6 +6,16 @@ This repository showcases examples of my data cleaning and exploratory analysis 
 📁 Repository Contents
 
 
+🚲 Bike Buyer Data Cleaning and Visualization 
+
+Files:
+
+Bike_Buyers.xlsx — Excel Spreadsheet including raw unclean data, cleaned data, pivot tables, and visualization dashboard.  
+
+Description:
+This project focuses on cleaning Bike Buyers data, creating pivot tables, and building a visualization dashboard in Excel. 
+
+
 🏅 Sports Data Cleaning
 
 Files:
